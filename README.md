@@ -8,7 +8,7 @@ CSV file from CitiBikes on NYC data (converted through Pandas/Python), CSV file 
 
 ## Results:
 At the Tableau Public story link provided here:
-https://public.tableau.com/profile/carolyn.shaffer#!/vizhome/DMStory/DMStory
+https://public.tableau.com/app/profile/carolyn.shaffer/viz/DesMoinesBikes/DMStory
 Visualizations show that that patterns of behavior by age and gender of bike riders in NYC could very well be similar to Des Moines.  There are many differences, though, also,
 which need to be fully explored.  Also, a throughout inventory of tourist attractions (which is started here with a map 20 attractions within less than 2 miles of the Capitol)
 and accommodations should be made of Des Moines, as well as consideration of the level of subscriber potential/commuters in Des Moines, as compared to NYC.
